@@ -3,7 +3,9 @@
 </p>
 A real-time gradient (colors) visualizer made in .NET, made while my budgies were sleeping. 🐣
 
-![preview](https://i.imgur.com/54BOKGH_d.webp?maxwidth=760&fidelity=grand)
+<p align="center">
+  <img src="https://i.imgur.com/54BOKGH_d.webp?maxwidth=760&fidelity=grand"/>
+</p>
 
 # powered by
 - [ProggyFont](https://github.com/bluescan/proggyfonts)
